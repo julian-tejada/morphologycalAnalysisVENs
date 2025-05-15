@@ -1,0 +1,29 @@
+Variables,Order,Driven
+Total arborization surface area,11,human-driven
+Total number of branches,10,human-driven
+Max branch order,10,human-driven
+Max bifurcation angle remote,10,human-driven
+Max Euclidean distance,13,human-driven
+Max path distance,6,human-driven
+Average diameter,11,human-driven
+Average Rall’s ratio,8,human-driven
+Soma surface,7,human-driven
+Overall width,3,human-driven
+Number of bifurcations,16,human-driven
+Overall depth,4,human-driven
+Total number of trees,3,human-driven
+Max bifurcation angle remote,7,information-driven
+Max branch order,3,information-driven
+Overall depth,7,information-driven
+Average diameter,4,information-driven
+Max Euclidean distance,7,information-driven
+Average fragmentation,3,information-driven
+Max fragmentation,3,information-driven
+Average length,1,information-driven
+Number of bifurcations,6,information-driven
+Number of branches,4,information-driven
+Number of stems,1,information-driven
+Max path distance,7,information-driven
+Soma surface,3,information-driven
+Total Volume,2,information-driven
+Overall width,7,information-driven

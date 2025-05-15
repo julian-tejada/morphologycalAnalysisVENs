@@ -1,0 +1,14 @@
+cell_name,cell_type1,variables,measures
+14_VEN_Cox,von Economo neuron,Average length,-1.5400285508903606
+14_VEN_Cox,von Economo neuron,Average diameter,-1.3557562545545918
+14_VEN_Cox,von Economo neuron,Number of stems,0.08649182695300066
+14_VEN_Cox,von Economo neuron,Average fragmentation,0.7881969281074792
+14_VEN_Cox,von Economo neuron,Max fragmentation,0.9875090640941434
+14_VEN_Cox,von Economo neuron,Average Rall’s ratio,0.2015352418943679
+14_VEN_Cox,von Economo neuron,Number of branches,-0.10176459507037985
+14_VEN_Cox,von Economo neuron,Soma surface,-0.74862612667176065
+14_VEN_Cox,von Economo neuron,Total Volume,-0.876252341172075
+14_VEN_Cox,von Economo neuron,Max branch order,0.14731716238061426
+14_VEN_Cox,von Economo neuron,Average branch order,0.16689778487770404
+14_VEN_Cox,von Economo neuron,Partition asymmetry,-0.5440026477237924
+14_VEN_Cox,von Economo neuron,Overall height-to-width ratio,-0.3968955163006024

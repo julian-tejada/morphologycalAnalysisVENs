@@ -1,0 +1,97 @@
+variables,mean_ranking,Classificator
+Average branch order,7,svm
+Max branch order,6,svm
+Average diameter,5,svm
+Average fragmentation,9,svm
+Max fragmentation,9,svm
+Overall height-to-width ratio,8,svm
+Soma height-to-width ratio,12,svm
+Average length,2,svm
+Number of branches,4,svm
+Number of stems,11,svm
+Partition asymmetry,9,svm
+Average Rall’s ratio,12,svm
+Soma height,12,svm
+Soma surface,7,svm
+Soma width,11,svm
+Total Volume,8,svm
+Average branch order,12,random forest
+Max branch order,11,random forest
+Average diameter,4,random forest
+Average fragmentation,3,random forest
+Max fragmentation,3,random forest
+Overall height-to-width ratio,15,random forest
+Soma height-to-width ratio,16,random forest
+Average length,1,random forest
+Number of branches,10,random forest
+Number of stems,8,random forest
+Partition asymmetry,8,random forest
+Average Rall’s ratio,5,random forest
+Soma height,14,random forest
+Soma surface,6,random forest
+Soma width,13,random forest
+Total Volume,7,random forest
+Average branch order,5,Bart
+Max branch order,10,Bart
+Average diameter,10,Bart
+Average fragmentation,11,Bart
+Max fragmentation,5,Bart
+Overall height-to-width ratio,15,Bart
+Soma height-to-width ratio,16,Bart
+Average length,3,Bart
+Number of branches,7,Bart
+Number of stems,3,Bart
+Partition asymmetry,4,Bart
+Average Rall’s ratio,4,Bart
+Soma height,13,Bart
+Soma surface,11,Bart
+Soma width,13,Bart
+Total Volume,8,Bart
+Average branch order,11,C50
+Max branch order,10,C50
+Average diameter,4,C50
+Average fragmentation,5,C50
+Max fragmentation,6,C50
+Overall height-to-width ratio,15,C50
+Soma height-to-width ratio,16,C50
+Average length,1,C50
+Number of branches,8,C50
+Number of stems,3,C50
+Partition asymmetry,12,C50
+Average Rall’s ratio,7,C50
+Soma height,14,C50
+Soma surface,8,C50
+Soma width,13,C50
+Total Volume,9,C50
+Average branch order,6,Earth
+Max branch order,4,Earth
+Average diameter,6,Earth
+Average fragmentation,6,Earth
+Max fragmentation,6,Earth
+Overall height-to-width ratio,8,Earth
+Soma height-to-width ratio,8,Earth
+Average length,1,Earth
+Number of branches,4,Earth
+Number of stems,3,Earth
+Partition asymmetry,7,Earth
+Average Rall’s ratio,6,Earth
+Soma height,8,Earth
+Soma surface,5,Earth
+Soma width,8,Earth
+Total Volume,4,Earth
+Average branch order,11,XGBoost
+Max branch order,9,XGBoost
+Average diameter,6,XGBoost
+Average fragmentation,6,XGBoost
+Max fragmentation,7,XGBoost
+Overall height-to-width ratio,6,XGBoost
+Soma height-to-width ratio,11,XGBoost
+Average length,1,XGBoost
+Number of branches,10,XGBoost
+Number of stems,3,XGBoost
+Partition asymmetry,5,XGBoost
+Average Rall’s ratio,8,XGBoost
+Soma height,10,XGBoost
+Soma surface,4,XGBoost
+Soma width,10,XGBoost
+Total Volume,8,XGBoost

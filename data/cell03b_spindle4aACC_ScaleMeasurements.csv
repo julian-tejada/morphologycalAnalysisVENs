@@ -1,0 +1,14 @@
+cell_name,cell_type1,variables,measures
+03b_spindle4aACC,von Economo neuron,Average length,0.0476780905332446
+03b_spindle4aACC,von Economo neuron,Average diameter,-0.3429279220112281
+03b_spindle4aACC,von Economo neuron,Number of stems,-0.8649182695300075
+03b_spindle4aACC,von Economo neuron,Average fragmentation,-0.41571564228167457
+03b_spindle4aACC,von Economo neuron,Max fragmentation,-0.9882134214865071
+03b_spindle4aACC,von Economo neuron,Average Rall’s ratio,0.8654691993317354
+03b_spindle4aACC,von Economo neuron,Number of branches,-0.6456788101017208
+03b_spindle4aACC,von Economo neuron,Soma surface,-1.299144387457484
+03b_spindle4aACC,von Economo neuron,Total Volume,-1.3784314275144565
+03b_spindle4aACC,von Economo neuron,Max branch order,-0.5706209074489614
+03b_spindle4aACC,von Economo neuron,Average branch order,-0.641981606937377
+03b_spindle4aACC,von Economo neuron,Partition asymmetry,-0.7997045209520115
+03b_spindle4aACC,von Economo neuron,Overall height-to-width ratio,-0.9202668162101985

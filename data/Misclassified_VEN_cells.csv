@@ -1,0 +1,664 @@
+cell_name,cell_type1,variables,measures,Group
+03b_spindle5aACC,von Economo neuron,Average length,-0.13576854269093,Misclassified by six models
+03b_spindle7aACC,von Economo neuron,Average length,-1.2179352469778058,Misclassified by six models
+06_VEN_rapid,von Economo neuron,Average length,0.721851305672641,Misclassified by six models
+09o_spindle8aFI,von Economo neuron,Average length,-0.8960722770628646,Misclassified by six models
+11_VEN_Cox,von Economo neuron,Average length,-1.6137930136260328,Misclassified by six models
+15_VEN_Cox,von Economo neuron,Average length,-0.4671471858822723,Misclassified by six models
+18_VEN_Cox,von Economo neuron,Average length,-0.9425421610813555,Misclassified by six models
+22o_pyramidal16aFI,von Economo neuron,Average length,-0.5210021536992413,Misclassified by six models
+23o_spindle16aFI,von Economo neuron,Average length,-0.7409279337954292,Misclassified by six models
+25o_spindle17aFI,von Economo neuron,Average length,-1.332382452041934,Misclassified by six models
+03b_spindle5aACC,von Economo neuron,Average diameter,-0.0391432395412019,Misclassified by six models
+03b_spindle7aACC,von Economo neuron,Average diameter,-0.7227665341300641,Misclassified by six models
+06_VEN_rapid,von Economo neuron,Average diameter,-1.1840913283979722,Misclassified by six models
+09o_spindle8aFI,von Economo neuron,Average diameter,0.3608822311084735,Misclassified by six models
+11_VEN_Cox,von Economo neuron,Average diameter,-0.9295800616527174,Misclassified by six models
+15_VEN_Cox,von Economo neuron,Average diameter,-1.13164261321746,Misclassified by six models
+18_VEN_Cox,von Economo neuron,Average diameter,-0.7965934437986034,Misclassified by six models
+22o_pyramidal16aFI,von Economo neuron,Average diameter,0.14420276560870776,Misclassified by six models
+23o_spindle16aFI,von Economo neuron,Average diameter,-0.07252459279385981,Misclassified by six models
+25o_spindle17aFI,von Economo neuron,Average diameter,-0.03660491569272159,Misclassified by six models
+03b_spindle5aACC,von Economo neuron,Number of stems,-0.8649182695300075,Misclassified by six models
+03b_spindle7aACC,von Economo neuron,Number of stems,-0.8649182695300075,Misclassified by six models
+06_VEN_rapid,von Economo neuron,Number of stems,1.6721753210913477,Misclassified by six models
+09o_spindle8aFI,von Economo neuron,Number of stems,-0.8649182695300075,Misclassified by six models
+11_VEN_Cox,von Economo neuron,Number of stems,-0.5477815707023381,Misclassified by six models
+15_VEN_Cox,von Economo neuron,Number of stems,1.3550386222636783,Misclassified by six models
+18_VEN_Cox,von Economo neuron,Number of stems,0.40362852578067004,Misclassified by six models
+22o_pyramidal16aFI,von Economo neuron,Number of stems,0.08649182695300066,Misclassified by six models
+23o_spindle16aFI,von Economo neuron,Number of stems,-0.8649182695300075,Misclassified by six models
+25o_spindle17aFI,von Economo neuron,Number of stems,-0.5477815707023381,Misclassified by six models
+03b_spindle5aACC,von Economo neuron,Average fragmentation,-1.1078786537774221,Misclassified by six models
+03b_spindle7aACC,von Economo neuron,Average fragmentation,0.7820008378525681,Misclassified by six models
+06_VEN_rapid,von Economo neuron,Average fragmentation,-0.533909122359092,Misclassified by six models
+09o_spindle8aFI,von Economo neuron,Average fragmentation,1.6683295998335077,Misclassified by six models
+11_VEN_Cox,von Economo neuron,Average fragmentation,-0.23071809038504973,Misclassified by six models
+15_VEN_Cox,von Economo neuron,Average fragmentation,-0.43090721780794283,Misclassified by six models
+18_VEN_Cox,von Economo neuron,Average fragmentation,-0.3710404642300059,Misclassified by six models
+22o_pyramidal16aFI,von Economo neuron,Average fragmentation,0.8612330721226829,Misclassified by six models
+23o_spindle16aFI,von Economo neuron,Average fragmentation,1.8488078199298028,Misclassified by six models
+25o_spindle17aFI,von Economo neuron,Average fragmentation,-1.7587264808800582,Misclassified by six models
+03b_spindle5aACC,von Economo neuron,Max fragmentation,-1.4530893004466603,Misclassified by six models
+03b_spindle7aACC,von Economo neuron,Max fragmentation,0.07712713446384362,Misclassified by six models
+06_VEN_rapid,von Economo neuron,Max fragmentation,-0.6395565122663923,Misclassified by six models
+09o_spindle8aFI,von Economo neuron,Max fragmentation,0.30956507394392013,Misclassified by six models
+11_VEN_Cox,von Economo neuron,Max fragmentation,0.2708254173639074,Misclassified by six models
+15_VEN_Cox,von Economo neuron,Max fragmentation,0.6001124982940158,Misclassified by six models
+18_VEN_Cox,von Economo neuron,Max fragmentation,0.6969616397440477,Misclassified by six models
+22o_pyramidal16aFI,von Economo neuron,Max fragmentation,1.1037280338341817,Misclassified by six models
+23o_spindle16aFI,von Economo neuron,Max fragmentation,1.5298642562143219,Misclassified by six models
+25o_spindle17aFI,von Economo neuron,Max fragmentation,-1.6661574116367304,Misclassified by six models
+03b_spindle5aACC,von Economo neuron,Average Rall’s ratio,0.4943620091484033,Misclassified by six models
+03b_spindle7aACC,von Economo neuron,Average Rall’s ratio,-0.3464277186107082,Misclassified by six models
+06_VEN_rapid,von Economo neuron,Average Rall’s ratio,-0.10361924233357019,Misclassified by six models
+09o_spindle8aFI,von Economo neuron,Average Rall’s ratio,1.056821344270016,Misclassified by six models
+11_VEN_Cox,von Economo neuron,Average Rall’s ratio,0.41815746706419477,Misclassified by six models
+15_VEN_Cox,von Economo neuron,Average Rall’s ratio,0.5233547583814763,Misclassified by six models
+18_VEN_Cox,von Economo neuron,Average Rall’s ratio,1.4206803471450795,Misclassified by six models
+22o_pyramidal16aFI,von Economo neuron,Average Rall’s ratio,0.7567463897077122,Misclassified by six models
+23o_spindle16aFI,von Economo neuron,Average Rall’s ratio,-1.7438782316448178,Misclassified by six models
+25o_spindle17aFI,von Economo neuron,Average Rall’s ratio,0.0353835945894742,Misclassified by six models
+03b_spindle5aACC,von Economo neuron,Number of branches,-0.575496330742838,Misclassified by six models
+03b_spindle7aACC,von Economo neuron,Number of branches,-0.6105875704222794,Misclassified by six models
+06_VEN_rapid,von Economo neuron,Number of branches,0.7579707770759332,Misclassified by six models
+09o_spindle8aFI,von Economo neuron,Number of branches,-0.6807700497811621,Misclassified by six models
+11_VEN_Cox,von Economo neuron,Number of branches,-0.2070383141087039,Misclassified by six models
+15_VEN_Cox,von Economo neuron,Number of branches,0.6351514381978884,Misclassified by six models
+18_VEN_Cox,von Economo neuron,Number of branches,-0.11931021491010053,Misclassified by six models
+22o_pyramidal16aFI,von Economo neuron,Number of branches,-0.2772207934675866,Misclassified by six models
+23o_spindle16aFI,von Economo neuron,Number of branches,-0.7158612894606035,Misclassified by six models
+25o_spindle17aFI,von Economo neuron,Number of branches,5.688289952037442,Misclassified by six models
+03b_spindle5aACC,von Economo neuron,Soma surface,-0.9026629857991194,Misclassified by six models
+03b_spindle7aACC,von Economo neuron,Soma surface,-1.2150294376601707,Misclassified by six models
+06_VEN_rapid,von Economo neuron,Soma surface,0.44359535198113653,Misclassified by six models
+09o_spindle8aFI,von Economo neuron,Soma surface,-0.9112602740720721,Misclassified by six models
+11_VEN_Cox,von Economo neuron,Soma surface,-0.6469802067272904,Misclassified by six models
+15_VEN_Cox,von Economo neuron,Soma surface,-0.63413240292045,Misclassified by six models
+18_VEN_Cox,von Economo neuron,Soma surface,-0.03659300402242059,Misclassified by six models
+22o_pyramidal16aFI,von Economo neuron,Soma surface,-0.622774052709513,Misclassified by six models
+23o_spindle16aFI,von Economo neuron,Soma surface,-0.9800841757739359,Misclassified by six models
+25o_spindle17aFI,von Economo neuron,Soma surface,-1.1167204341618515,Misclassified by six models
+03b_spindle5aACC,von Economo neuron,Total Volume,-1.0695321886764755,Misclassified by six models
+03b_spindle7aACC,von Economo neuron,Total Volume,-1.298422736915851,Misclassified by six models
+06_VEN_rapid,von Economo neuron,Total Volume,0.24837194749142402,Misclassified by six models
+09o_spindle8aFI,von Economo neuron,Total Volume,-0.9466942457365365,Misclassified by six models
+11_VEN_Cox,von Economo neuron,Total Volume,-0.8547033543505939,Misclassified by six models
+15_VEN_Cox,von Economo neuron,Total Volume,-0.6147875403407512,Misclassified by six models
+18_VEN_Cox,von Economo neuron,Total Volume,-0.16275625919380518,Misclassified by six models
+22o_pyramidal16aFI,von Economo neuron,Total Volume,-0.17497179622587747,Misclassified by six models
+23o_spindle16aFI,von Economo neuron,Total Volume,-1.0298183598225408,Misclassified by six models
+25o_spindle17aFI,von Economo neuron,Total Volume,-0.9457403876811352,Misclassified by six models
+03b_spindle5aACC,von Economo neuron,Max branch order,-0.46805832604473635,Misclassified by six models
+03b_spindle7aACC,von Economo neuron,Max branch order,-0.5706209074489614,Misclassified by six models
+06_VEN_rapid,von Economo neuron,Max branch order,0.24987974378483935,Misclassified by six models
+09o_spindle8aFI,von Economo neuron,Max branch order,-0.5706209074489614,Misclassified by six models
+11_VEN_Cox,von Economo neuron,Max branch order,-0.16037058183206104,Misclassified by six models
+15_VEN_Cox,von Economo neuron,Max branch order,0.45500490659328957,Misclassified by six models
+18_VEN_Cox,von Economo neuron,Max branch order,-0.05780800042783595,Misclassified by six models
+22o_pyramidal16aFI,von Economo neuron,Max branch order,-0.16037058183206104,Misclassified by six models
+23o_spindle16aFI,von Economo neuron,Max branch order,-0.6731834888531866,Misclassified by six models
+25o_spindle17aFI,von Economo neuron,Max branch order,5.48057139540032,Misclassified by six models
+03b_spindle5aACC,von Economo neuron,Average branch order,-0.5680441475828661,Misclassified by six models
+03b_spindle7aACC,von Economo neuron,Average branch order,-0.5059868923993088,Misclassified by six models
+06_VEN_rapid,von Economo neuron,Average branch order,0.07831741349550342,Misclassified by six models
+09o_spindle8aFI,von Economo neuron,Average branch order,-0.6374648878044579,Misclassified by six models
+11_VEN_Cox,von Economo neuron,Average branch order,0.12193513479956856,Misclassified by six models
+15_VEN_Cox,von Economo neuron,Average branch order,0.4270294252624547,Misclassified by six models
+18_VEN_Cox,von Economo neuron,Average branch order,-0.3003276692993485,Misclassified by six models
+22o_pyramidal16aFI,von Economo neuron,Average branch order,-0.19602003706536414,Misclassified by six models
+23o_spindle16aFI,von Economo neuron,Average branch order,-0.8126928558431225,Misclassified by six models
+25o_spindle17aFI,von Economo neuron,Average branch order,4.547361623308856,Misclassified by six models
+03b_spindle5aACC,von Economo neuron,Partition asymmetry,0.13786151370484886,Misclassified by six models
+03b_spindle7aACC,von Economo neuron,Partition asymmetry,-0.2371660252348869,Misclassified by six models
+06_VEN_rapid,von Economo neuron,Partition asymmetry,-0.4090552879862117,Misclassified by six models
+09o_spindle8aFI,von Economo neuron,Partition asymmetry,0.13786151370484886,Misclassified by six models
+11_VEN_Cox,von Economo neuron,Partition asymmetry,-0.21372504611835413,Misclassified by six models
+15_VEN_Cox,von Economo neuron,Partition asymmetry,-0.6473634709268569,Misclassified by six models
+18_VEN_Cox,von Economo neuron,Partition asymmetry,-0.873239553112154,Misclassified by six models
+22o_pyramidal16aFI,von Economo neuron,Partition asymmetry,0.7148234964521607,Misclassified by six models
+23o_spindle16aFI,von Economo neuron,Partition asymmetry,-0.7997045209520115,Misclassified by six models
+25o_spindle17aFI,von Economo neuron,Partition asymmetry,1.6666498819754498,Misclassified by six models
+03b_spindle5aACC,von Economo neuron,Overall height-to-width ratio,-0.7955701712112441,Misclassified by six models
+03b_spindle7aACC,von Economo neuron,Overall height-to-width ratio,-0.8739912761267133,Misclassified by six models
+06_VEN_rapid,von Economo neuron,Overall height-to-width ratio,-0.5253622772544306,Misclassified by six models
+09o_spindle8aFI,von Economo neuron,Overall height-to-width ratio,-0.9330451501687398,Misclassified by six models
+11_VEN_Cox,von Economo neuron,Overall height-to-width ratio,-0.6104303398321931,Misclassified by six models
+15_VEN_Cox,von Economo neuron,Overall height-to-width ratio,-0.35451429140668406,Misclassified by six models
+18_VEN_Cox,von Economo neuron,Overall height-to-width ratio,0.044067042711141785,Misclassified by six models
+22o_pyramidal16aFI,von Economo neuron,Overall height-to-width ratio,-0.45614816862775664,Misclassified by six models
+23o_spindle16aFI,von Economo neuron,Overall height-to-width ratio,-0.540536482491369,Misclassified by six models
+25o_spindle17aFI,von Economo neuron,Overall height-to-width ratio,-0.4643511953674754,Misclassified by six models
+01_VEN_Cox,von Economo neuron,Average length,-1.3360390042540458,Correct classfied models
+02_VEN_Cox,von Economo neuron,Average length,-1.176950191277482,Correct classfied models
+03_VEN_rapid,von Economo neuron,Average length,-0.41356573968746896,Correct classfied models
+03a_spindle2aFI,von Economo neuron,Average length,-0.21991243119405351,Correct classfied models
+03a_spindle6aFI,von Economo neuron,Average length,-0.5514206372590529,Correct classfied models
+03b_pyramidal3aFI,von Economo neuron,Average length,-0.21870317770658323,Correct classfied models
+03b_spindle6aACC,von Economo neuron,Average length,-0.5644776957487596,Correct classfied models
+04_VEN_rapid,von Economo neuron,Average length,0.7925926346896381,Correct classfied models
+04b_spindle3aFI,von Economo neuron,Average length,0.5420612246605779,Correct classfied models
+05_VEN_rapid,von Economo neuron,Average length,0.9154470306666534,Correct classfied models
+05b_spindle5aFI,von Economo neuron,Average length,0.43050759044146697,Correct classfied models
+06b_spindle8aACC,von Economo neuron,Average length,-0.15288523788857095,Correct classfied models
+07_VEN_rapid,von Economo neuron,Average length,-0.28669489462707093,Correct classfied models
+07b_spindle9aACC,von Economo neuron,Average length,0.7725391810224264,Correct classfied models
+08_VEN_rapid,von Economo neuron,Average length,0.8272722972052969,Correct classfied models
+08a_spindle13aACC,von Economo neuron,Average length,-0.32009332428100545,Correct classfied models
+09_VEN_rapid,von Economo neuron,Average length,1.7638103315011378,Correct classfied models
+09o_spindle7aFI,von Economo neuron,Average length,-0.4128891335694798,Correct classfied models
+10_VEN_rapid,von Economo neuron,Average length,2.0348270714429346,Correct classfied models
+10a_spindle18aACC,von Economo neuron,Average length,-0.3314516695383135,Correct classfied models
+12_VEN_Cox,von Economo neuron,Average length,1.7102864688057382,Correct classfied models
+12a_spindle19aACC,von Economo neuron,Average length,-0.3944480178855618,Correct classfied models
+12o_spindle9aFI,von Economo neuron,Average length,1.5391051209544737,Correct classfied models
+13_VEN_Cox,von Economo neuron,Average length,0.6197845529802297,Correct classfied models
+13o_spindle10aFI,von Economo neuron,Average length,0.15321424906470724,Correct classfied models
+15o_spindle12aFI,von Economo neuron,Average length,0.507957397138953,Correct classfied models
+16_VEN_Cox,von Economo neuron,Average length,-1.2544143938498185,Correct classfied models
+16o_spindle13aFI,von Economo neuron,Average length,0.6680395254802242,Correct classfied models
+17_VEN_rapid,von Economo neuron,Average length,0.5891501312976555,Correct classfied models
+19_VEN_Cox,von Economo neuron,Average length,-0.7330245985023208,Correct classfied models
+19o_spindle14aFI,von Economo neuron,Average length,-0.5328499587014778,Correct classfied models
+20_VEN_Cox,von Economo neuron,Average length,-1.3900235349446726,Correct classfied models
+21_VEN_rapid,von Economo neuron,Average length,0.9860731926848437,Correct classfied models
+21o_spindle15aFI,von Economo neuron,Average length,2.796599185049654,Correct classfied models
+22_VEN_rapid,von Economo neuron,Average length,0.20064865669820456,Correct classfied models
+23_VEN_rapid,von Economo neuron,Average length,-0.592823173330051,Correct classfied models
+26o_spindle18aFI,von Economo neuron,Average length,-0.2216831238007055,Correct classfied models
+28o_spindle20aFI,von Economo neuron,Average length,0.6073033294845569,Correct classfied models
+28o_spindle21aFI,von Economo neuron,Average length,1.0523949881226353,Correct classfied models
+29o_spindle22aFI,von Economo neuron,Average length,1.9286718902928863,Correct classfied models
+30o_spindle23aFI,von Economo neuron,Average length,0.11931196379099346,Correct classfied models
+01_VEN_Cox,von Economo neuron,Average diameter,-0.8197975552059387,Correct classfied models
+02_VEN_Cox,von Economo neuron,Average diameter,-0.7035734533323559,Correct classfied models
+03_VEN_rapid,von Economo neuron,Average diameter,-0.5325478974281365,Correct classfied models
+03a_spindle2aFI,von Economo neuron,Average diameter,-0.03138458928735627,Correct classfied models
+03a_spindle6aFI,von Economo neuron,Average diameter,-0.0886525278122707,Correct classfied models
+03b_pyramidal3aFI,von Economo neuron,Average diameter,0.026853180519289133,Correct classfied models
+03b_spindle6aACC,von Economo neuron,Average diameter,-0.5674139306676413,Correct classfied models
+04_VEN_rapid,von Economo neuron,Average diameter,-0.47640544211905766,Correct classfied models
+04b_spindle3aFI,von Economo neuron,Average diameter,1.2811323852139336,Correct classfied models
+05_VEN_rapid,von Economo neuron,Average diameter,-0.4424134543556804,Correct classfied models
+05b_spindle5aFI,von Economo neuron,Average diameter,0.9399193992045216,Correct classfied models
+06b_spindle8aACC,von Economo neuron,Average diameter,0.5343982179583716,Correct classfied models
+07_VEN_rapid,von Economo neuron,Average diameter,-1.1455471202233107,Correct classfied models
+07b_spindle9aACC,von Economo neuron,Average diameter,-0.014370635567117079,Correct classfied models
+08_VEN_rapid,von Economo neuron,Average diameter,-0.39032992255903015,Correct classfied models
+08a_spindle13aACC,von Economo neuron,Average diameter,-0.0814087262635413,Correct classfied models
+09_VEN_rapid,von Economo neuron,Average diameter,-0.6372417829522539,Correct classfied models
+09o_spindle7aFI,von Economo neuron,Average diameter,1.482426255688712,Correct classfied models
+10_VEN_rapid,von Economo neuron,Average diameter,-0.11597542886053655,Correct classfied models
+10a_spindle18aACC,von Economo neuron,Average diameter,-0.2062415774156969,Correct classfied models
+12_VEN_Cox,von Economo neuron,Average diameter,-0.20297288679949319,Correct classfied models
+12a_spindle19aACC,von Economo neuron,Average diameter,0.3768185945156787,Correct classfied models
+12o_spindle9aFI,von Economo neuron,Average diameter,2.4747073356076545,Correct classfied models
+13_VEN_Cox,von Economo neuron,Average diameter,-0.6688870184783566,Correct classfied models
+13o_spindle10aFI,von Economo neuron,Average diameter,1.2148965006394348,Correct classfied models
+15o_spindle12aFI,von Economo neuron,Average diameter,2.242546489277298,Correct classfied models
+16_VEN_Cox,von Economo neuron,Average diameter,-1.062340385541094,Correct classfied models
+16o_spindle13aFI,von Economo neuron,Average diameter,0.8554003989855432,Correct classfied models
+17_VEN_rapid,von Economo neuron,Average diameter,-0.6296268114068126,Correct classfied models
+19_VEN_Cox,von Economo neuron,Average diameter,-1.2882991009586542,Correct classfied models
+19o_spindle14aFI,von Economo neuron,Average diameter,0.5809381462557466,Correct classfied models
+20_VEN_Cox,von Economo neuron,Average diameter,-1.3781521732271511,Correct classfied models
+21_VEN_rapid,von Economo neuron,Average diameter,-0.9165172724136033,Correct classfied models
+21o_spindle15aFI,von Economo neuron,Average diameter,0.9576158267896824,Correct classfied models
+22_VEN_rapid,von Economo neuron,Average diameter,-0.7914808764245415,Correct classfied models
+23_VEN_rapid,von Economo neuron,Average diameter,-0.9479350166513988,Correct classfied models
+26o_spindle18aFI,von Economo neuron,Average diameter,0.8749287301028624,Correct classfied models
+28o_spindle20aFI,von Economo neuron,Average diameter,1.5650415130213298,Correct classfied models
+28o_spindle21aFI,von Economo neuron,Average diameter,1.5630300111036661,Correct classfied models
+29o_spindle22aFI,von Economo neuron,Average diameter,2.34392379128241,Correct classfied models
+30o_spindle23aFI,von Economo neuron,Average diameter,1.8544104317480992,Correct classfied models
+01_VEN_Cox,von Economo neuron,Number of stems,-0.23064487187466873,Correct classfied models
+02_VEN_Cox,von Economo neuron,Number of stems,0.08649182695300066,Correct classfied models
+03_VEN_rapid,von Economo neuron,Number of stems,1.0379019234360087,Correct classfied models
+03a_spindle2aFI,von Economo neuron,Number of stems,-0.8649182695300075,Correct classfied models
+03a_spindle6aFI,von Economo neuron,Number of stems,-0.5477815707023381,Correct classfied models
+03b_pyramidal3aFI,von Economo neuron,Number of stems,0.40362852578067004,Correct classfied models
+03b_spindle6aACC,von Economo neuron,Number of stems,-0.8649182695300075,Correct classfied models
+04_VEN_rapid,von Economo neuron,Number of stems,1.989312019919017,Correct classfied models
+04b_spindle3aFI,von Economo neuron,Number of stems,-0.5477815707023381,Correct classfied models
+05_VEN_rapid,von Economo neuron,Number of stems,2.6235854175743563,Correct classfied models
+05b_spindle5aFI,von Economo neuron,Number of stems,-0.8649182695300075,Correct classfied models
+06b_spindle8aACC,von Economo neuron,Number of stems,-0.8649182695300075,Correct classfied models
+07_VEN_rapid,von Economo neuron,Number of stems,0.7207652246083395,Correct classfied models
+07b_spindle9aACC,von Economo neuron,Number of stems,-0.8649182695300075,Correct classfied models
+08_VEN_rapid,von Economo neuron,Number of stems,1.0379019234360087,Correct classfied models
+08a_spindle13aACC,von Economo neuron,Number of stems,-0.8649182695300075,Correct classfied models
+09_VEN_rapid,von Economo neuron,Number of stems,0.7207652246083395,Correct classfied models
+09o_spindle7aFI,von Economo neuron,Number of stems,-0.5477815707023381,Correct classfied models
+10_VEN_rapid,von Economo neuron,Number of stems,0.7207652246083395,Correct classfied models
+10a_spindle18aACC,von Economo neuron,Number of stems,-0.8649182695300075,Correct classfied models
+12_VEN_Cox,von Economo neuron,Number of stems,0.08649182695300066,Correct classfied models
+12a_spindle19aACC,von Economo neuron,Number of stems,-0.5477815707023381,Correct classfied models
+12o_spindle9aFI,von Economo neuron,Number of stems,-0.8649182695300075,Correct classfied models
+13_VEN_Cox,von Economo neuron,Number of stems,0.40362852578067004,Correct classfied models
+13o_spindle10aFI,von Economo neuron,Number of stems,-0.5477815707023381,Correct classfied models
+15o_spindle12aFI,von Economo neuron,Number of stems,-0.5477815707023381,Correct classfied models
+16_VEN_Cox,von Economo neuron,Number of stems,0.40362852578067004,Correct classfied models
+16o_spindle13aFI,von Economo neuron,Number of stems,-0.8649182695300075,Correct classfied models
+17_VEN_rapid,von Economo neuron,Number of stems,0.40362852578067004,Correct classfied models
+19_VEN_Cox,von Economo neuron,Number of stems,1.989312019919017,Correct classfied models
+19o_spindle14aFI,von Economo neuron,Number of stems,-0.8649182695300075,Correct classfied models
+20_VEN_Cox,von Economo neuron,Number of stems,0.40362852578067004,Correct classfied models
+21_VEN_rapid,von Economo neuron,Number of stems,2.6235854175743563,Correct classfied models
+21o_spindle15aFI,von Economo neuron,Number of stems,-0.8649182695300075,Correct classfied models
+22_VEN_rapid,von Economo neuron,Number of stems,1.0379019234360087,Correct classfied models
+23_VEN_rapid,von Economo neuron,Number of stems,0.40362852578067004,Correct classfied models
+26o_spindle18aFI,von Economo neuron,Number of stems,-0.8649182695300075,Correct classfied models
+28o_spindle20aFI,von Economo neuron,Number of stems,-0.8649182695300075,Correct classfied models
+28o_spindle21aFI,von Economo neuron,Number of stems,-0.8649182695300075,Correct classfied models
+29o_spindle22aFI,von Economo neuron,Number of stems,-0.8649182695300075,Correct classfied models
+30o_spindle23aFI,von Economo neuron,Number of stems,-0.5477815707023381,Correct classfied models
+01_VEN_Cox,von Economo neuron,Average fragmentation,-0.11259657418980316,Correct classfied models
+02_VEN_Cox,von Economo neuron,Average fragmentation,-0.6219497358069197,Correct classfied models
+03_VEN_rapid,von Economo neuron,Average fragmentation,-0.5115499441686064,Correct classfied models
+03a_spindle2aFI,von Economo neuron,Average fragmentation,-1.6454538910654841,Correct classfied models
+03a_spindle6aFI,von Economo neuron,Average fragmentation,-0.43347632840144235,Correct classfied models
+03b_pyramidal3aFI,von Economo neuron,Average fragmentation,0.31173845703066166,Correct classfied models
+03b_spindle6aACC,von Economo neuron,Average fragmentation,-1.6554345618837605,Correct classfied models
+04_VEN_rapid,von Economo neuron,Average fragmentation,0.08200095958841427,Correct classfied models
+04b_spindle3aFI,von Economo neuron,Average fragmentation,-0.0907915178920331,Correct classfied models
+05_VEN_rapid,von Economo neuron,Average fragmentation,-0.37543026104242827,Correct classfied models
+05b_spindle5aFI,von Economo neuron,Average fragmentation,1.0078594820458064,Correct classfied models
+06b_spindle8aACC,von Economo neuron,Average fragmentation,0.5472906361523147,Correct classfied models
+07_VEN_rapid,von Economo neuron,Average fragmentation,-0.16574909756119907,Correct classfied models
+07b_spindle9aACC,von Economo neuron,Average fragmentation,-0.32818597239725983,Correct classfied models
+08_VEN_rapid,von Economo neuron,Average fragmentation,-0.36924856356395164,Correct classfied models
+08a_spindle13aACC,von Economo neuron,Average fragmentation,2.940413555803115,Correct classfied models
+09_VEN_rapid,von Economo neuron,Average fragmentation,-0.48767952445253265,Correct classfied models
+09o_spindle7aFI,von Economo neuron,Average fragmentation,2.032143006148281,Correct classfied models
+10_VEN_rapid,von Economo neuron,Average fragmentation,-0.781731143390876,Correct classfied models
+10a_spindle18aACC,von Economo neuron,Average fragmentation,1.6534762545534425,Correct classfied models
+12_VEN_Cox,von Economo neuron,Average fragmentation,-1.0986240985302498,Correct classfied models
+12a_spindle19aACC,von Economo neuron,Average fragmentation,-1.699072740393347,Correct classfied models
+12o_spindle9aFI,von Economo neuron,Average fragmentation,-0.7544568320481208,Correct classfied models
+13_VEN_Cox,von Economo neuron,Average fragmentation,0.09985519875500423,Correct classfied models
+13o_spindle10aFI,von Economo neuron,Average fragmentation,0.664829244901977,Correct classfied models
+15o_spindle12aFI,von Economo neuron,Average fragmentation,0.676825624059859,Correct classfied models
+16_VEN_Cox,von Economo neuron,Average fragmentation,-0.43566403041943647,Correct classfied models
+16o_spindle13aFI,von Economo neuron,Average fragmentation,0.38897009537642657,Correct classfied models
+17_VEN_rapid,von Economo neuron,Average fragmentation,-0.791626177189369,Correct classfied models
+19_VEN_Cox,von Economo neuron,Average fragmentation,0.5638855073809141,Correct classfied models
+19o_spindle14aFI,von Economo neuron,Average fragmentation,0.08803153291433219,Correct classfied models
+20_VEN_Cox,von Economo neuron,Average fragmentation,0.14727939710559965,Correct classfied models
+21_VEN_rapid,von Economo neuron,Average fragmentation,-0.29909097483558195,Correct classfied models
+21o_spindle15aFI,von Economo neuron,Average fragmentation,0.17307844886385224,Correct classfied models
+22_VEN_rapid,von Economo neuron,Average fragmentation,-0.6211437403266062,Correct classfied models
+23_VEN_rapid,von Economo neuron,Average fragmentation,-0.2107265239179854,Correct classfied models
+26o_spindle18aFI,von Economo neuron,Average fragmentation,2.3751732432921107,Correct classfied models
+28o_spindle20aFI,von Economo neuron,Average fragmentation,0.3074134277121932,Correct classfied models
+28o_spindle21aFI,von Economo neuron,Average fragmentation,-1.5416474303116647,Correct classfied models
+29o_spindle22aFI,von Economo neuron,Average fragmentation,0.18616148264251417,Correct classfied models
+30o_spindle23aFI,von Economo neuron,Average fragmentation,0.3769737162185446,Correct classfied models
+01_VEN_Cox,von Economo neuron,Max fragmentation,0.3870443871039457,Correct classfied models
+02_VEN_Cox,von Economo neuron,Max fragmentation,-1.02695307806652,Correct classfied models
+03_VEN_rapid,von Economo neuron,Max fragmentation,-0.5233375425263541,Correct classfied models
+03a_spindle2aFI,von Economo neuron,Max fragmentation,-1.4724591287366666,Correct classfied models
+03a_spindle6aFI,von Economo neuron,Max fragmentation,-0.5427073708163604,Correct classfied models
+03b_pyramidal3aFI,von Economo neuron,Max fragmentation,-0.1553108050162329,Correct classfied models
+03b_spindle6aACC,von Economo neuron,Max fragmentation,-1.7630065530867622,Correct classfied models
+04_VEN_rapid,von Economo neuron,Max fragmentation,0.42578404368395845,Correct classfied models
+04b_spindle3aFI,von Economo neuron,Max fragmentation,-0.8332547951664562,Correct classfied models
+05_VEN_rapid,von Economo neuron,Max fragmentation,0.4451538719739648,Correct classfied models
+05b_spindle5aFI,von Economo neuron,Max fragmentation,0.17397627591387552,Correct classfied models
+06b_spindle8aACC,von Economo neuron,Max fragmentation,-0.4264884010763222,Correct classfied models
+07_VEN_rapid,von Economo neuron,Max fragmentation,0.6775918114540413,Correct classfied models
+07b_spindle9aACC,von Economo neuron,Max fragmentation,-0.3490090879162967,Correct classfied models
+08_VEN_rapid,von Economo neuron,Max fragmentation,0.7357012963240604,Correct classfied models
+08a_spindle13aACC,von Economo neuron,Max fragmentation,2.963231549674794,Correct classfied models
+09_VEN_rapid,von Economo neuron,Max fragmentation,-0.19405046159624567,Correct classfied models
+09o_spindle7aFI,von Economo neuron,Max fragmentation,0.8712900943541051,Correct classfied models
+10_VEN_rapid,von Economo neuron,Max fragmentation,0.7938107811940797,Correct classfied models
+10a_spindle18aACC,von Economo neuron,Max fragmentation,2.5564651555846605,Correct classfied models
+12_VEN_Cox,von Economo neuron,Max fragmentation,-0.775145310296437,Correct classfied models
+12a_spindle19aACC,von Economo neuron,Max fragmentation,-1.743636724796756,Correct classfied models
+12o_spindle9aFI,von Economo neuron,Max fragmentation,-1.1238022195165518,Correct classfied models
+13_VEN_Cox,von Economo neuron,Max fragmentation,-0.19405046159624567,Correct classfied models
+13o_spindle10aFI,von Economo neuron,Max fragmentation,0.6388521548740286,Correct classfied models
+15o_spindle12aFI,von Economo neuron,Max fragmentation,-0.3296392596262903,Correct classfied models
+16_VEN_Cox,von Economo neuron,Max fragmentation,0.4451538719739648,Correct classfied models
+16o_spindle13aFI,von Economo neuron,Max fragmentation,-0.1553108050162329,Correct classfied models
+17_VEN_rapid,von Economo neuron,Max fragmentation,-0.38774874449630947,Correct classfied models
+19_VEN_Cox,von Economo neuron,Max fragmentation,0.9875090640941434,Correct classfied models
+19o_spindle14aFI,von Economo neuron,Max fragmentation,-0.17468063330623929,Correct classfied models
+20_VEN_Cox,von Economo neuron,Max fragmentation,1.0649883772541688,Correct classfied models
+21_VEN_rapid,von Economo neuron,Max fragmentation,0.3289349022339265,Correct classfied models
+21o_spindle15aFI,von Economo neuron,Max fragmentation,-0.29089960304627754,Correct classfied models
+22_VEN_rapid,von Economo neuron,Max fragmentation,-0.620186683976386,Correct classfied models
+23_VEN_rapid,von Economo neuron,Max fragmentation,-0.48459788594634134,Correct classfied models
+26o_spindle18aFI,von Economo neuron,Max fragmentation,1.7235625391143858,Correct classfied models
+28o_spindle20aFI,von Economo neuron,Max fragmentation,0.8325504377740923,Correct classfied models
+28o_spindle21aFI,von Economo neuron,Max fragmentation,-1.4530893004466603,Correct classfied models
+29o_spindle22aFI,von Economo neuron,Max fragmentation,-0.8138849668764497,Correct classfied models
+30o_spindle23aFI,von Economo neuron,Max fragmentation,-0.25215994646626483,Correct classfied models
+01_VEN_Cox,von Economo neuron,Average Rall’s ratio,-0.3792823020416263,Correct classfied models
+02_VEN_Cox,von Economo neuron,Average Rall’s ratio,0.11359443492061136,Correct classfied models
+03_VEN_rapid,von Economo neuron,Average Rall’s ratio,0.5726424320776999,Correct classfied models
+03a_spindle2aFI,von Economo neuron,Average Rall’s ratio,0.24116253154613185,Correct classfied models
+03a_spindle6aFI,von Economo neuron,Average Rall’s ratio,0.19767340769652253,Correct classfied models
+03b_pyramidal3aFI,von Economo neuron,Average Rall’s ratio,0.10295989450192036,Correct classfied models
+03b_spindle6aACC,von Economo neuron,Average Rall’s ratio,3.4226296816887576,Correct classfied models
+04_VEN_rapid,von Economo neuron,Average Rall’s ratio,-0.43340596630992684,Correct classfied models
+04b_spindle3aFI,von Economo neuron,Average Rall’s ratio,-1.7438782316448178,Correct classfied models
+05_VEN_rapid,von Economo neuron,Average Rall’s ratio,0.2459173424203558,Correct classfied models
+05b_spindle5aFI,von Economo neuron,Average Rall’s ratio,-1.7438782316448178,Correct classfied models
+06b_spindle8aACC,von Economo neuron,Average Rall’s ratio,-1.7438782316448178,Correct classfied models
+07_VEN_rapid,von Economo neuron,Average Rall’s ratio,0.2673255884540567,Correct classfied models
+07b_spindle9aACC,von Economo neuron,Average Rall’s ratio,0.697311253779913,Correct classfied models
+08_VEN_rapid,von Economo neuron,Average Rall’s ratio,0.3767790153587533,Correct classfied models
+08a_spindle13aACC,von Economo neuron,Average Rall’s ratio,0.5813402568476217,Correct classfied models
+09_VEN_rapid,von Economo neuron,Average Rall’s ratio,0.06112915590844285,Correct classfied models
+09o_spindle7aFI,von Economo neuron,Average Rall’s ratio,-1.7438782316448178,Correct classfied models
+10_VEN_rapid,von Economo neuron,Average Rall’s ratio,0.7408003776295223,Correct classfied models
+10a_spindle18aACC,von Economo neuron,Average Rall’s ratio,-0.7407291081804985,Correct classfied models
+12_VEN_Cox,von Economo neuron,Average Rall’s ratio,-0.05070167643336562,Correct classfied models
+12a_spindle19aACC,von Economo neuron,Average Rall’s ratio,-1.7438782316448178,Correct classfied models
+12o_spindle9aFI,von Economo neuron,Average Rall’s ratio,-0.07099660089651667,Correct classfied models
+13_VEN_Cox,von Economo neuron,Average Rall’s ratio,0.757233467894828,Correct classfied models
+13o_spindle10aFI,von Economo neuron,Average Rall’s ratio,-0.18696759782880779,Correct classfied models
+15o_spindle12aFI,von Economo neuron,Average Rall’s ratio,1.3612452112172808,Correct classfied models
+16_VEN_Cox,von Economo neuron,Average Rall’s ratio,0.2566214654372064,Correct classfied models
+16o_spindle13aFI,von Economo neuron,Average Rall’s ratio,-1.7438782316448178,Correct classfied models
+17_VEN_rapid,von Economo neuron,Average Rall’s ratio,0.34794862552138556,Correct classfied models
+19_VEN_Cox,von Economo neuron,Average Rall’s ratio,-0.12276605392709125,Correct classfied models
+19o_spindle14aFI,von Economo neuron,Average Rall’s ratio,-0.5841682623219053,Correct classfied models
+20_VEN_Cox,von Economo neuron,Average Rall’s ratio,-0.27200912987925707,Correct classfied models
+21_VEN_rapid,von Economo neuron,Average Rall’s ratio,0.1008840136568324,Correct classfied models
+21o_spindle15aFI,von Economo neuron,Average Rall’s ratio,1.0336271448835577,Correct classfied models
+22_VEN_rapid,von Economo neuron,Average Rall’s ratio,0.3327216336241759,Correct classfied models
+23_VEN_rapid,von Economo neuron,Average Rall’s ratio,0.6532422749456426,Correct classfied models
+26o_spindle18aFI,von Economo neuron,Average Rall’s ratio,-1.7438782316448178,Correct classfied models
+28o_spindle20aFI,von Economo neuron,Average Rall’s ratio,-0.22175889690849518,Correct classfied models
+28o_spindle21aFI,von Economo neuron,Average Rall’s ratio,-0.468197265389614,Correct classfied models
+29o_spindle22aFI,von Economo neuron,Average Rall’s ratio,1.116743558384931,Correct classfied models
+30o_spindle23aFI,von Economo neuron,Average Rall’s ratio,-1.7438782316448178,Correct classfied models
+01_VEN_Cox,von Economo neuron,Number of branches,-0.2596751736278659,Correct classfied models
+02_VEN_Cox,von Economo neuron,Number of branches,-0.10176459507037985,Correct classfied models
+03_VEN_rapid,von Economo neuron,Number of branches,-0.18949269426898324,Correct classfied models
+03a_spindle2aFI,von Economo neuron,Number of branches,1.5650692897030842,Correct classfied models
+03a_spindle6aFI,von Economo neuron,Number of branches,-0.34740327282646927,Correct classfied models
+03b_pyramidal3aFI,von Economo neuron,Number of branches,-0.11931021491010053,Correct classfied models
+03b_spindle6aACC,von Economo neuron,Number of branches,1.5650692897030842,Correct classfied models
+04_VEN_rapid,von Economo neuron,Number of branches,0.28423904140347495,Correct classfied models
+04b_spindle3aFI,von Economo neuron,Number of branches,-0.6281331902620001,Correct classfied models
+05_VEN_rapid,von Economo neuron,Number of branches,0.600060198518447,Correct classfied models
+05b_spindle5aFI,von Economo neuron,Number of branches,-0.7509525291400448,Correct classfied models
+06b_spindle8aACC,von Economo neuron,Number of branches,-0.7509525291400448,Correct classfied models
+07_VEN_rapid,von Economo neuron,Number of branches,0.8456988762745365,Correct classfied models
+07b_spindle9aACC,von Economo neuron,Number of branches,-0.32985765298674863,Correct classfied models
+08_VEN_rapid,von Economo neuron,Number of branches,0.8632444961142572,Correct classfied models
+08a_spindle13aACC,von Economo neuron,Number of branches,-0.6456788101017208,Correct classfied models
+09_VEN_rapid,von Economo neuron,Number of branches,0.31933028108291633,Correct classfied models
+09o_spindle7aFI,von Economo neuron,Number of branches,-0.7334069093003242,Correct classfied models
+10_VEN_rapid,von Economo neuron,Number of branches,0.1438740826857096,Correct classfied models
+10a_spindle18aACC,von Economo neuron,Number of branches,-0.7158612894606035,Correct classfied models
+12_VEN_Cox,von Economo neuron,Number of branches,0.389512760441799,Correct classfied models
+12a_spindle19aACC,von Economo neuron,Number of branches,1.4773411905044809,Correct classfied models
+12o_spindle9aFI,von Economo neuron,Number of branches,-0.6807700497811621,Correct classfied models
+13_VEN_Cox,von Economo neuron,Number of branches,0.16141970252543025,Correct classfied models
+13o_spindle10aFI,von Economo neuron,Number of branches,-0.6281331902620001,Correct classfied models
+15o_spindle12aFI,von Economo neuron,Number of branches,-0.522859471223676,Correct classfied models
+16_VEN_Cox,von Economo neuron,Number of branches,0.23160218188431295,Correct classfied models
+16o_spindle13aFI,von Economo neuron,Number of branches,-0.7509525291400448,Correct classfied models
+17_VEN_rapid,von Economo neuron,Number of branches,-0.18949269426898324,Correct classfied models
+19_VEN_Cox,von Economo neuron,Number of branches,0.42460400012124033,Correct classfied models
+19o_spindle14aFI,von Economo neuron,Number of branches,-0.6456788101017208,Correct classfied models
+20_VEN_Cox,von Economo neuron,Number of branches,0.09123722316654756,Correct classfied models
+21_VEN_rapid,von Economo neuron,Number of branches,0.8807901159539778,Correct classfied models
+21o_spindle15aFI,von Economo neuron,Number of branches,-0.7158612894606035,Correct classfied models
+22_VEN_rapid,von Economo neuron,Number of branches,0.1263284628459889,Correct classfied models
+23_VEN_rapid,von Economo neuron,Number of branches,0.056145983487106206,Correct classfied models
+26o_spindle18aFI,von Economo neuron,Number of branches,-0.7509525291400448,Correct classfied models
+28o_spindle20aFI,von Economo neuron,Number of branches,-0.575496330742838,Correct classfied models
+28o_spindle21aFI,von Economo neuron,Number of branches,-0.32985765298674863,Correct classfied models
+29o_spindle22aFI,von Economo neuron,Number of branches,-0.6456788101017208,Correct classfied models
+30o_spindle23aFI,von Economo neuron,Number of branches,-0.7334069093003242,Correct classfied models
+01_VEN_Cox,von Economo neuron,Soma surface,-0.0166171008637568,Correct classfied models
+02_VEN_Cox,von Economo neuron,Soma surface,-0.391145442594655,Correct classfied models
+03_VEN_rapid,von Economo neuron,Soma surface,1.7206751562509803,Correct classfied models
+03a_spindle2aFI,von Economo neuron,Soma surface,-0.8352153932590031,Correct classfied models
+03a_spindle6aFI,von Economo neuron,Soma surface,0.0875027981260633,Correct classfied models
+03b_pyramidal3aFI,von Economo neuron,Soma surface,-0.16076817614710337,Correct classfied models
+03b_spindle6aACC,von Economo neuron,Soma surface,-1.2634400569728275,Correct classfied models
+04_VEN_rapid,von Economo neuron,Soma surface,0.9721825062370656,Correct classfied models
+04b_spindle3aFI,von Economo neuron,Soma surface,-0.4238745810778796,Correct classfied models
+05_VEN_rapid,von Economo neuron,Soma surface,0.48816074925538966,Correct classfied models
+05b_spindle5aFI,von Economo neuron,Soma surface,-0.7561122352779283,Correct classfied models
+06b_spindle8aACC,von Economo neuron,Soma surface,-0.6069625402169464,Correct classfied models
+07_VEN_rapid,von Economo neuron,Soma surface,0.03499364834032538,Correct classfied models
+07b_spindle9aACC,von Economo neuron,Soma surface,-0.48616819133375866,Correct classfied models
+08_VEN_rapid,von Economo neuron,Soma surface,0.4432576074015666,Correct classfied models
+08a_spindle13aACC,von Economo neuron,Soma surface,-0.9867242342082809,Correct classfied models
+09_VEN_rapid,von Economo neuron,Soma surface,2.3114917492926703,Correct classfied models
+09o_spindle7aFI,von Economo neuron,Soma surface,-0.4486616557725172,Correct classfied models
+10_VEN_rapid,von Economo neuron,Soma surface,2.5820420447571677,Correct classfied models
+10a_spindle18aACC,von Economo neuron,Soma surface,-1.1681285366181915,Correct classfied models
+12_VEN_Cox,von Economo neuron,Soma surface,-0.10582219921976832,Correct classfied models
+12a_spindle19aACC,von Economo neuron,Soma surface,-0.8917707231079889,Correct classfied models
+12o_spindle9aFI,von Economo neuron,Soma surface,-0.09882582025397703,Correct classfied models
+13_VEN_Cox,von Economo neuron,Soma surface,-0.2888240334910448,Correct classfied models
+13o_spindle10aFI,von Economo neuron,Soma surface,0.3917853334751083,Correct classfied models
+15o_spindle12aFI,von Economo neuron,Soma surface,0.9735503717843238,Correct classfied models
+16_VEN_Cox,von Economo neuron,Soma surface,0.08561311720336962,Correct classfied models
+16o_spindle13aFI,von Economo neuron,Soma surface,-0.6403181948952734,Correct classfied models
+17_VEN_rapid,von Economo neuron,Soma surface,2.6036745850786223,Correct classfied models
+19_VEN_Cox,von Economo neuron,Soma surface,0.25165004124284807,Correct classfied models
+19o_spindle14aFI,von Economo neuron,Soma surface,-0.9583942188739546,Correct classfied models
+20_VEN_Cox,von Economo neuron,Soma surface,0.10913364972461978,Correct classfied models
+21_VEN_rapid,von Economo neuron,Soma surface,1.7075706665636667,Correct classfied models
+21o_spindle15aFI,von Economo neuron,Soma surface,-0.6708807019005569,Correct classfied models
+22_VEN_rapid,von Economo neuron,Soma surface,0.9473920540966323,Correct classfied models
+23_VEN_rapid,von Economo neuron,Soma surface,2.103897043460009,Correct classfied models
+26o_spindle18aFI,von Economo neuron,Soma surface,0.9776033067391631,Correct classfied models
+28o_spindle20aFI,von Economo neuron,Soma surface,0.18760860278769453,Correct classfied models
+28o_spindle21aFI,von Economo neuron,Soma surface,0.1895016611561841,Correct classfied models
+29o_spindle22aFI,von Economo neuron,Soma surface,1.4154216052356716,Correct classfied models
+30o_spindle23aFI,von Economo neuron,Soma surface,-0.34225015981031526,Correct classfied models
+01_VEN_Cox,von Economo neuron,Total Volume,-0.2086491395044752,Correct classfied models
+02_VEN_Cox,von Economo neuron,Total Volume,-0.48469873769902927,Correct classfied models
+03_VEN_rapid,von Economo neuron,Total Volume,1.187578538030821,Correct classfied models
+03a_spindle2aFI,von Economo neuron,Total Volume,-0.8256517098137801,Correct classfied models
+03a_spindle6aFI,von Economo neuron,Total Volume,-0.16631527795965656,Correct classfied models
+03b_pyramidal3aFI,von Economo neuron,Total Volume,0.37576840884773943,Correct classfied models
+03b_spindle6aACC,von Economo neuron,Total Volume,-1.2961693754666936,Correct classfied models
+04_VEN_rapid,von Economo neuron,Total Volume,1.4869053497386313,Correct classfied models
+04b_spindle3aFI,von Economo neuron,Total Volume,-0.40173872822470685,Correct classfied models
+05_VEN_rapid,von Economo neuron,Total Volume,1.065464193863017,Correct classfied models
+05b_spindle5aFI,von Economo neuron,Total Volume,-0.8888986528098125,Correct classfied models
+06b_spindle8aACC,von Economo neuron,Total Volume,-0.8320928158222951,Correct classfied models
+07_VEN_rapid,von Economo neuron,Total Volume,0.13741158864887526,Correct classfied models
+07b_spindle9aACC,von Economo neuron,Total Volume,-0.5018169000050988,Correct classfied models
+08_VEN_rapid,von Economo neuron,Total Volume,1.1633525947312786,Correct classfied models
+08a_spindle13aACC,von Economo neuron,Total Volume,-0.895632070157886,Correct classfied models
+09_VEN_rapid,von Economo neuron,Total Volume,1.8579869029043585,Correct classfied models
+09o_spindle7aFI,von Economo neuron,Total Volume,-0.3855692957049233,Correct classfied models
+10_VEN_rapid,von Economo neuron,Total Volume,2.1755857374691265,Correct classfied models
+10a_spindle18aACC,von Economo neuron,Total Volume,-1.2376009523843303,Correct classfied models
+12_VEN_Cox,von Economo neuron,Total Volume,0.11895494810377498,Correct classfied models
+12a_spindle19aACC,von Economo neuron,Total Volume,-0.902837288264545,Correct classfied models
+12o_spindle9aFI,von Economo neuron,Total Volume,-0.04889842830124745,Correct classfied models
+13_VEN_Cox,von Economo neuron,Total Volume,0.03381542425555214,Correct classfied models
+13o_spindle10aFI,von Economo neuron,Total Volume,0.3547732750906849,Correct classfied models
+15o_spindle12aFI,von Economo neuron,Total Volume,2.105451529051569,Correct classfied models
+16_VEN_Cox,von Economo neuron,Total Volume,-0.11659158062003681,Correct classfied models
+16o_spindle13aFI,von Economo neuron,Total Volume,-0.7961128797110356,Correct classfied models
+17_VEN_rapid,von Economo neuron,Total Volume,1.7633959790770806,Correct classfied models
+19_VEN_Cox,von Economo neuron,Total Volume,0.12093958825130297,Correct classfied models
+19o_spindle14aFI,von Economo neuron,Total Volume,-0.9536379221183273,Correct classfied models
+20_VEN_Cox,von Economo neuron,Total Volume,-0.06263193299137756,Correct classfied models
+21_VEN_rapid,von Economo neuron,Total Volume,1.8187094897521152,Correct classfied models
+21o_spindle15aFI,von Economo neuron,Total Volume,-0.5764127025527586,Correct classfied models
+22_VEN_rapid,von Economo neuron,Total Volume,0.6713823537162467,Correct classfied models
+23_VEN_rapid,von Economo neuron,Total Volume,1.5897938129940763,Correct classfied models
+26o_spindle18aFI,von Economo neuron,Total Volume,0.5449756482991375,Correct classfied models
+28o_spindle20aFI,von Economo neuron,Total Volume,0.8351433713674513,Correct classfied models
+28o_spindle21aFI,von Economo neuron,Total Volume,-0.09256051154686648,Correct classfied models
+29o_spindle22aFI,von Economo neuron,Total Volume,2.2193144882132416,Correct classfied models
+30o_spindle23aFI,von Economo neuron,Total Volume,-0.3116401681422211,Correct classfied models
+01_VEN_Cox,von Economo neuron,Max branch order,-0.16037058183206104,Correct classfied models
+02_VEN_Cox,von Economo neuron,Max branch order,0.14731716238061426,Correct classfied models
+03_VEN_rapid,von Economo neuron,Max branch order,-0.2629331632362862,Correct classfied models
+03a_spindle2aFI,von Economo neuron,Max branch order,0.9678178136144152,Correct classfied models
+03a_spindle6aFI,von Economo neuron,Max branch order,-0.05780800042783595,Correct classfied models
+03b_pyramidal3aFI,von Economo neuron,Max branch order,-0.2629331632362862,Correct classfied models
+03b_spindle6aACC,von Economo neuron,Max branch order,1.5831933020397657,Correct classfied models
+04_VEN_rapid,von Economo neuron,Max branch order,-0.16037058183206104,Correct classfied models
+04b_spindle3aFI,von Economo neuron,Max branch order,-0.46805832604473635,Correct classfied models
+05_VEN_rapid,von Economo neuron,Max branch order,0.04475458097638915,Correct classfied models
+05b_spindle5aFI,von Economo neuron,Max branch order,-0.7757460702574117,Correct classfied models
+06b_spindle8aACC,von Economo neuron,Max branch order,-0.7757460702574117,Correct classfied models
+07_VEN_rapid,von Economo neuron,Max branch order,0.3524423251890645,Correct classfied models
+07b_spindle9aACC,von Economo neuron,Max branch order,-0.05780800042783595,Correct classfied models
+08_VEN_rapid,von Economo neuron,Max branch order,0.3524423251890645,Correct classfied models
+08a_spindle13aACC,von Economo neuron,Max branch order,-0.5706209074489614,Correct classfied models
+09_VEN_rapid,von Economo neuron,Max branch order,0.24987974378483935,Correct classfied models
+09o_spindle7aFI,von Economo neuron,Max branch order,-0.7757460702574117,Correct classfied models
+10_VEN_rapid,von Economo neuron,Max branch order,0.04475458097638915,Correct classfied models
+10a_spindle18aACC,von Economo neuron,Max branch order,-0.6731834888531866,Correct classfied models
+12_VEN_Cox,von Economo neuron,Max branch order,0.5575674879975147,Correct classfied models
+12a_spindle19aACC,von Economo neuron,Max branch order,3.2241946045073675,Correct classfied models
+12o_spindle9aFI,von Economo neuron,Max branch order,-0.5706209074489614,Correct classfied models
+13_VEN_Cox,von Economo neuron,Max branch order,-0.05780800042783595,Correct classfied models
+13o_spindle10aFI,von Economo neuron,Max branch order,-0.46805832604473635,Correct classfied models
+15o_spindle12aFI,von Economo neuron,Max branch order,-0.36549574464051127,Correct classfied models
+16_VEN_Cox,von Economo neuron,Max branch order,0.3524423251890645,Correct classfied models
+16o_spindle13aFI,von Economo neuron,Max branch order,-0.7757460702574117,Correct classfied models
+17_VEN_rapid,von Economo neuron,Max branch order,0.04475458097638915,Correct classfied models
+19_VEN_Cox,von Economo neuron,Max branch order,0.3524423251890645,Correct classfied models
+19o_spindle14aFI,von Economo neuron,Max branch order,-0.46805832604473635,Correct classfied models
+20_VEN_Cox,von Economo neuron,Max branch order,0.04475458097638915,Correct classfied models
+21_VEN_rapid,von Economo neuron,Max branch order,0.45500490659328957,Correct classfied models
+21o_spindle15aFI,von Economo neuron,Max branch order,-0.6731834888531866,Correct classfied models
+22_VEN_rapid,von Economo neuron,Max branch order,0.04475458097638915,Correct classfied models
+23_VEN_rapid,von Economo neuron,Max branch order,-0.16037058183206104,Correct classfied models
+26o_spindle18aFI,von Economo neuron,Max branch order,-0.7757460702574117,Correct classfied models
+28o_spindle20aFI,von Economo neuron,Max branch order,-0.46805832604473635,Correct classfied models
+28o_spindle21aFI,von Economo neuron,Max branch order,-0.05780800042783595,Correct classfied models
+29o_spindle22aFI,von Economo neuron,Max branch order,-0.5706209074489614,Correct classfied models
+30o_spindle23aFI,von Economo neuron,Max branch order,-0.7757460702574117,Correct classfied models
+01_VEN_Cox,von Economo neuron,Average branch order,-0.04802183321871906,Correct classfied models
+02_VEN_Cox,von Economo neuron,Average branch order,0.19917047158549753,Correct classfied models
+03_VEN_rapid,von Economo neuron,Average branch order,-0.36129777372386573,Correct classfied models
+03a_spindle2aFI,von Economo neuron,Average branch order,0.9842614357092114,Correct classfied models
+03a_spindle6aFI,von Economo neuron,Average branch order,-0.1699200130435637,Correct classfied models
+03b_pyramidal3aFI,von Economo neuron,Average branch order,-0.3221631483333679,Correct classfied models
+03b_spindle6aACC,von Economo neuron,Average branch order,1.7096263545244232,Correct classfied models
+04_VEN_rapid,von Economo neuron,Average branch order,-0.1333323465189614,Correct classfied models
+04b_spindle3aFI,von Economo neuron,Average branch order,-0.5955619506873322,Correct classfied models
+05_VEN_rapid,von Economo neuron,Average branch order,0.20143443502184924,Correct classfied models
+05b_spindle5aFI,von Economo neuron,Average branch order,-0.9282917255224156,Correct classfied models
+06b_spindle8aACC,von Economo neuron,Average branch order,-0.9282917255224156,Correct classfied models
+07_VEN_rapid,von Economo neuron,Average branch order,0.661313215770543,Correct classfied models
+07b_spindle9aACC,von Economo neuron,Average branch order,0.27404097527701987,Correct classfied models
+08_VEN_rapid,von Economo neuron,Average branch order,0.6766986405589175,Correct classfied models
+08a_spindle13aACC,von Economo neuron,Average branch order,-0.5940993406455308,Correct classfied models
+09_VEN_rapid,von Economo neuron,Average branch order,0.5647893588164903,Correct classfied models
+09o_spindle7aFI,von Economo neuron,Average branch order,-0.9282917255224156,Correct classfied models
+10_VEN_rapid,von Economo neuron,Average branch order,0.17498977300169327,Correct classfied models
+10a_spindle18aACC,von Economo neuron,Average branch order,-0.7110812454141596,Correct classfied models
+12_VEN_Cox,von Economo neuron,Average branch order,0.9009150788061008,Correct classfied models
+12a_spindle19aACC,von Economo neuron,Average branch order,3.76318408997753,Correct classfied models
+12o_spindle9aFI,von Economo neuron,Average branch order,-0.6500307254566928,Correct classfied models
+13_VEN_Cox,von Economo neuron,Average branch order,0.02787978253292369,Correct classfied models
+13o_spindle10aFI,von Economo neuron,Average branch order,-0.5666459820448223,Correct classfied models
+15o_spindle12aFI,von Economo neuron,Average branch order,-0.2883437935353936,Correct classfied models
+16_VEN_Cox,von Economo neuron,Average branch order,0.6779567093496622,Correct classfied models
+16o_spindle13aFI,von Economo neuron,Average branch order,-0.9282917255224156,Correct classfied models
+17_VEN_rapid,von Economo neuron,Average branch order,-0.17900388613842974,Correct classfied models
+19_VEN_Cox,von Economo neuron,Average branch order,0.5714607659228678,Correct classfied models
+19o_spindle14aFI,von Economo neuron,Average branch order,-0.45947197036110066,Correct classfied models
+20_VEN_Cox,von Economo neuron,Average branch order,-0.03565969623705674,Correct classfied models
+21_VEN_rapid,von Economo neuron,Average branch order,0.7295515394449316,Correct classfied models
+21o_spindle15aFI,von Economo neuron,Average branch order,-0.7681810370977952,Correct classfied models
+22_VEN_rapid,von Economo neuron,Average branch order,-0.041484918989748515,Correct classfied models
+23_VEN_rapid,von Economo neuron,Average branch order,-0.1657115067547022,Correct classfied models
+26o_spindle18aFI,von Economo neuron,Average branch order,-0.9282917255224156,Correct classfied models
+28o_spindle20aFI,von Economo neuron,Average branch order,-0.3315944613615355,Correct classfied models
+28o_spindle21aFI,von Economo neuron,Average branch order,-0.38658523661133204,Correct classfied models
+29o_spindle22aFI,von Economo neuron,Average branch order,-0.6166745305052889,Correct classfied models
+30o_spindle23aFI,von Economo neuron,Average branch order,-0.9282917255224156,Correct classfied models
+01_VEN_Cox,von Economo neuron,Partition asymmetry,0.0039210978746014565,Correct classfied models
+02_VEN_Cox,von Economo neuron,Partition asymmetry,-0.278833251612654,Correct classfied models
+03_VEN_rapid,von Economo neuron,Partition asymmetry,0.08428534737275002,Correct classfied models
+03a_spindle2aFI,von Economo neuron,Partition asymmetry,0.6791810573635235,Correct classfied models
+03a_spindle6aFI,von Economo neuron,Partition asymmetry,-0.7773829934419562,Correct classfied models
+03b_pyramidal3aFI,von Economo neuron,Partition asymmetry,-1.075460891552546,Correct classfied models
+03b_spindle6aACC,von Economo neuron,Partition asymmetry,1.0054815118042417,Correct classfied models
+04_VEN_rapid,von Economo neuron,Partition asymmetry,-1.0108195930096913,Correct classfied models
+04b_spindle3aFI,von Economo neuron,Partition asymmetry,0.6066417183408004,Correct classfied models
+05_VEN_rapid,von Economo neuron,Partition asymmetry,-0.9115090469757899,Correct classfied models
+05b_spindle5aFI,von Economo neuron,Partition asymmetry,2.0129879576336123,Correct classfied models
+06b_spindle8aACC,von Economo neuron,Partition asymmetry,2.0129879576336123,Correct classfied models
+07_VEN_rapid,von Economo neuron,Partition asymmetry,-0.012651286209225062,Correct classfied models
+07b_spindle9aACC,von Economo neuron,Partition asymmetry,0.42634250507850446,Correct classfied models
+08_VEN_rapid,von Economo neuron,Partition asymmetry,-0.274428575191189,Correct classfied models
+08a_spindle13aACC,von Economo neuron,Partition asymmetry,-0.7997045209520115,Correct classfied models
+09_VEN_rapid,von Economo neuron,Partition asymmetry,-0.21796658637606142,Correct classfied models
+09o_spindle7aFI,von Economo neuron,Partition asymmetry,2.0129879576336123,Correct classfied models
+10_VEN_rapid,von Economo neuron,Partition asymmetry,-0.05616363885294493,Correct classfied models
+10a_spindle18aACC,von Economo neuron,Partition asymmetry,-0.7997045209520115,Correct classfied models
+12_VEN_Cox,von Economo neuron,Partition asymmetry,0.48944807352805186,Correct classfied models
+12a_spindle19aACC,von Economo neuron,Partition asymmetry,1.4190935661652153,Correct classfied models
+12o_spindle9aFI,von Economo neuron,Partition asymmetry,0.13786151370484886,Correct classfied models
+13_VEN_Cox,von Economo neuron,Partition asymmetry,-0.5521875828364764,Correct classfied models
+13o_spindle10aFI,von Economo neuron,Partition asymmetry,0.6066417183408004,Correct classfied models
+15o_spindle12aFI,von Economo neuron,Partition asymmetry,0.4057367199803863,Correct classfied models
+16_VEN_Cox,von Economo neuron,Partition asymmetry,-0.2979089320024219,Correct classfied models
+16o_spindle13aFI,von Economo neuron,Partition asymmetry,2.0129879576336123,Correct classfied models
+17_VEN_rapid,von Economo neuron,Partition asymmetry,-0.11215872071662701,Correct classfied models
+19_VEN_Cox,von Economo neuron,Partition asymmetry,-0.5165113914380967,Correct classfied models
+19o_spindle14aFI,von Economo neuron,Partition asymmetry,0.6066417183408004,Correct classfied models
+20_VEN_Cox,von Economo neuron,Partition asymmetry,-0.516685778371769,Correct classfied models
+21_VEN_rapid,von Economo neuron,Partition asymmetry,-1.0055036042251646,Correct classfied models
+21o_spindle15aFI,von Economo neuron,Partition asymmetry,-0.7997045209520115,Correct classfied models
+22_VEN_rapid,von Economo neuron,Partition asymmetry,-0.4165257992093351,Correct classfied models
+23_VEN_rapid,von Economo neuron,Partition asymmetry,-0.6974237716607238,Correct classfied models
+26o_spindle18aFI,von Economo neuron,Partition asymmetry,2.0129879576336123,Correct classfied models
+28o_spindle20aFI,von Economo neuron,Partition asymmetry,-1.737270555608872,Correct classfied models
+28o_spindle21aFI,von Economo neuron,Partition asymmetry,0.42634250507850446,Correct classfied models
+29o_spindle22aFI,von Economo neuron,Partition asymmetry,-0.7997045209520115,Correct classfied models
+30o_spindle23aFI,von Economo neuron,Partition asymmetry,2.0129879576336123,Correct classfied models
+01_VEN_Cox,von Economo neuron,Overall height-to-width ratio,-0.11445815371444289,Correct classfied models
+02_VEN_Cox,von Economo neuron,Overall height-to-width ratio,0.2558433565588639,Correct classfied models
+03_VEN_rapid,von Economo neuron,Overall height-to-width ratio,-0.3263086717282356,Correct classfied models
+03a_spindle2aFI,von Economo neuron,Overall height-to-width ratio,0.5211358770604104,Correct classfied models
+03a_spindle6aFI,von Economo neuron,Overall height-to-width ratio,-0.9932931896148774,Correct classfied models
+03b_pyramidal3aFI,von Economo neuron,Overall height-to-width ratio,-0.18841536097068853,Correct classfied models
+03b_spindle6aACC,von Economo neuron,Overall height-to-width ratio,2.1699970649902314,Correct classfied models
+04_VEN_rapid,von Economo neuron,Overall height-to-width ratio,-0.454060168724214,Correct classfied models
+04b_spindle3aFI,von Economo neuron,Overall height-to-width ratio,-0.9468040675018172,Correct classfied models
+05_VEN_rapid,von Economo neuron,Overall height-to-width ratio,-0.3379209644832188,Correct classfied models
+05b_spindle5aFI,von Economo neuron,Overall height-to-width ratio,-1.0199640604208597,Correct classfied models
+06b_spindle8aACC,von Economo neuron,Overall height-to-width ratio,-0.7881060737597583,Correct classfied models
+07_VEN_rapid,von Economo neuron,Overall height-to-width ratio,-0.5273744848567685,Correct classfied models
+07b_spindle9aACC,von Economo neuron,Overall height-to-width ratio,-0.7523111406493969,Correct classfied models
+08_VEN_rapid,von Economo neuron,Overall height-to-width ratio,0.49002231847157035,Correct classfied models
+08a_spindle13aACC,von Economo neuron,Overall height-to-width ratio,0.7092901213567236,Correct classfied models
+09_VEN_rapid,von Economo neuron,Overall height-to-width ratio,0.23618514661236265,Correct classfied models
+09o_spindle7aFI,von Economo neuron,Overall height-to-width ratio,-0.9295888346333262,Correct classfied models
+10_VEN_rapid,von Economo neuron,Overall height-to-width ratio,-0.009914535937558562,Correct classfied models
+10a_spindle18aACC,von Economo neuron,Overall height-to-width ratio,0.5215786897571375,Correct classfied models
+12_VEN_Cox,von Economo neuron,Overall height-to-width ratio,2.0094279065067386,Correct classfied models
+12a_spindle19aACC,von Economo neuron,Overall height-to-width ratio,1.4121367627192016,Correct classfied models
+12o_spindle9aFI,von Economo neuron,Overall height-to-width ratio,-0.5212254495184632,Correct classfied models
+13_VEN_Cox,von Economo neuron,Overall height-to-width ratio,-0.25496686409502173,Correct classfied models
+13o_spindle10aFI,von Economo neuron,Overall height-to-width ratio,0.5238264743917364,Correct classfied models
+15o_spindle12aFI,von Economo neuron,Overall height-to-width ratio,0.2520615803808868,Correct classfied models
+16_VEN_Cox,von Economo neuron,Overall height-to-width ratio,-0.3220263408720943,Correct classfied models
+16o_spindle13aFI,von Economo neuron,Overall height-to-width ratio,-0.4801881935802532,Correct classfied models
+17_VEN_rapid,von Economo neuron,Overall height-to-width ratio,-0.4145198511455851,Correct classfied models
+19_VEN_Cox,von Economo neuron,Overall height-to-width ratio,0.33483905337718517,Correct classfied models
+19o_spindle14aFI,von Economo neuron,Overall height-to-width ratio,-0.16723129293034594,Correct classfied models
+20_VEN_Cox,von Economo neuron,Overall height-to-width ratio,-0.10663943209462268,Correct classfied models
+21_VEN_rapid,von Economo neuron,Overall height-to-width ratio,-0.4478134373019308,Correct classfied models
+21o_spindle15aFI,von Economo neuron,Overall height-to-width ratio,0.7599331822833316,Correct classfied models
+22_VEN_rapid,von Economo neuron,Overall height-to-width ratio,-0.4450013764123341,Correct classfied models
+23_VEN_rapid,von Economo neuron,Overall height-to-width ratio,-0.35218276507080953,Correct classfied models
+26o_spindle18aFI,von Economo neuron,Overall height-to-width ratio,0.4617664663670395,Correct classfied models
+28o_spindle20aFI,von Economo neuron,Overall height-to-width ratio,0.6446476690890441,Correct classfied models
+28o_spindle21aFI,von Economo neuron,Overall height-to-width ratio,4.789571312410679,Correct classfied models
+29o_spindle22aFI,von Economo neuron,Overall height-to-width ratio,-0.033746952705517204,Correct classfied models
+30o_spindle23aFI,von Economo neuron,Overall height-to-width ratio,2.268116003668725,Correct classfied models
