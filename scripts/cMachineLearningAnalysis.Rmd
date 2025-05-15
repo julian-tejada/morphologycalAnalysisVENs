@@ -1,0 +1,122 @@
+---
+title: "Supplementary Material - VENturing forth: The utility of machine learning
+  for the neurometric analysis of von Economo neurons (VENs)"
+author: "Bruton et al. 2025"
+date: "2025-05-02"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Load libraries
+
+```{r eval = FALSE}
+library(readr)
+library(corregp)
+library(MachineShop)
+```
+
+# Read data 
+
+Read the DataNeuroMorpho_Human_pyramidal_28-11-24.csv file containing the data 
+```{r eval = FALSE}
+df <- read_csv(file.choose())
+```
+
+
+# Prepare the data
+
+Convert the column cell_type1 in factor
+
+
+```{r eval = FALSE}
+Human_pyramidal$cell_type1 <- as.factor(Human_pyramidal$cell_type1)
+```
+
+# Select variables
+
+Select morphological variables that will work as predictors. Dataframe number columns from 2 to 24.
+
+```{r eval = FALSE}
+Variables <- names(Human_pyramidal)[2:34]
+```
+# Bootstraping
+
+Estimate variable importance from six different machine learning models using 5000 sub-samples of 10 variables/predictors. 
+
+```{r eval = FALSE}
+Results <- NULL
+for (i in c(1:5000)) {
+
+  Vars <- sample(Variables, 10)
+  formula <-  as.formula(paste('cell_type1 ~ ', Vars[1], "*",Vars[2], "*", Vars[3], "*", Vars[4], "*", Vars[5], "*", Vars[6], "*", Vars[7], "*", Vars[8], "*", Vars[9], "*", Vars[10] , sep=""))
+  
+  
+  model_1 <- fit(formula, data = Human_pyramidal, model = EarthModel)
+  vars_earth <- varimp(model_1)
+  
+  # this will take some time:
+  model_2 <- fit(formula, data = Human_pyramidal, model = BARTModel)
+  vars_bart <- varimp(model_2)
+  
+  model_3 <- fit(formula, data = Human_pyramidal, model = C50Model)
+  vars_C50 <- varimp(model_3)
+  
+  model_4 <- fit(formula, data = Human_pyramidal, model = SVMModel)
+  vars_SVM <- varimp(model_4)
+  
+  model_5 <- fit(formula, data = Human_pyramidal, model = XGBModel)
+  vars_XBG <- varimp(model_5)
+  
+  model_6 <- fit(formula, data = Human_pyramidal, model = RandomForestModel)
+  vars_RF <- varimp(model_6)
+  
+  # extracting results form each model
+  Temp1 <- list(names=vars_earth@row.names, values=vars_earth@.Data[1] )
+  Temp1 <- as.data.frame(Temp1)
+  names(Temp1) <- c("Variables", "Values")
+  Temp1["Order"] <- c(1:10)
+  Temp1["Model"] <- "EarthModel"
+  Temp1["Repetition"] <- i
+  
+  Temp2 <- list(names=vars_C50@row.names, values=vars_C50@.Data[1] )
+  Temp2 <- as.data.frame(Temp2)
+  names(Temp2) <- c("Variables", "Values")
+  Temp2["Order"] <- c(1:10)
+  Temp2["Model"] <- "BARTModel"
+  Temp2["Repetition"] <- i
+  
+  Temp3 <- list(names=vars_bart@row.names, values=vars_bart@.Data[1] )
+  Temp3 <- as.data.frame(Temp3)
+  names(Temp3) <- c("Variables", "Values")
+  Temp3["Order"] <- c(1:10)
+  Temp3["Model"] <- "C50Model"
+  Temp3["Repetition"] <- i
+  
+  Temp4 <- list(names=vars_SVM@row.names, values=vars_SVM@.Data[1] )
+  Temp4 <- as.data.frame(Temp4)
+  names(Temp4) <- c("Variables", "Values")
+  Temp4["Order"] <- c(1:10)
+  Temp4["Model"] <- "SVMModel"
+  Temp4["Repetition"] <- i
+  
+  Temp5 <- list(names=vars_XBG@row.names, values=vars_XBG@.Data[1] )
+  Temp5 <- as.data.frame(Temp5)
+  names(Temp5) <- c("Variables", "Values")
+  Temp5["Order"] <- c(1:10)
+  Temp5["Model"] <- "XGBModel"
+  Temp5["Repetition"] <- i
+  
+  Temp6 <- list(names=vars_RF@row.names, values=vars_RF@.Data[1] )
+  Temp6 <- as.data.frame(Temp6)
+  names(Temp6) <- c("Variables", "Values")
+  Temp6["Order"] <- c(1:10)
+  Temp6["Model"] <- "RandomForestModel"
+  Temp6["Repetition"] <- i
+  
+  Results <- rbind(Results, Temp1, Temp2, Temp3, Temp4, Temp5, Temp6)
+  
+}
+```
+
