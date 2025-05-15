@@ -1,0 +1,131 @@
+---
+title: "Supplementary Material - VENturing forth: The utility of machine learning
+  for the neurometric analysis of von Economo neurons (VENs)"
+author: "Bruton et al. 2025"
+date: "2025-05-02"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Load libraries
+
+```{r eval = FALSE}
+library(ggpubr)
+library(ggpp)
+library(readr)
+```
+
+# Read Figure 1 data 
+
+Read the HumanVsInformationDrive_data.csv file containing the data 
+```{r eval = FALSE}
+HumanVsInformationDrive <- read_csv(file.choose())
+```
+# Figure 1. Most important variables found in human and information driven variable selection. The median ranking is represented by the x values and the numbers assigned to each point. A lower value indicates a higher importance of the variable. For example, the most important variables for all machine learning classifiers were average length and number of stems, but this level of agreement was not observed between the human experts, for whom the variable with the best average ranking was total number of trees, which appeared in seventh place for the machine learning classifiers. The interrater variability between experts' response was low (Fleiss' Kappa for m Raters; number of variables = 19, experts = 7, Kappa = 0.0132, z = 1.12, p = 0.262).
+
+
+```{r eval = FALSE}
+ggdotchart(HumanVsInformationDrive, x="Variables", y="Order",
+           color = "Driven",
+           group = "Driven",
+           # palette = c("#00AFBB", "#E7B800", "#FC4E07"), # Custom color palette
+           sorting = "ascending",                       # Sort value in descending order
+           rotate = TRUE,                                # Rotate vertically
+           dot.size = 6,                                 # Large dot size
+           # y.text.col = TRUE,                            # Color y text by groups
+           position = position_dodge2_keep(width =0.45, preserve="total"),
+           label = round(CompareData$Order,1),
+           font.label = list(color = "white", size = 9, 
+                             vjust = 0.5),
+           ylab = "Median ranking"
+           
+)
+```
+# Read Figure 2 data 
+
+Read the AverageRanking_variableImportance.csv file containing the data 
+```{r eval = FALSE}
+df <- read_csv(file.choose())
+```
+
+# Figure 2. Most important variables considering the classification algorithm. The importance of variables is represented by their median ranked order (x values and point numbers), where lower values indicate higher importance. Across all machine learning classifiers, average length emerged as the most significant variable. Specifically, it held the top spot in importance for C50, Earth, and XGBoost, and was the second most important variable for SVM.
+
+
+
+```{r eval = FALSE}
+ggdotchart(AverageRankings_classficator, x="variables", y="mean_ranking",
+           color = "Classificator",
+           group = "Classificator",
+           # palette = c("#00AFBB", "#E7B800", "#FC4E07"), # Custom color palette
+           sorting = "none",                       # Sort value in descending order
+           rotate = TRUE,                                # Rotate vertically
+           dot.size = 6,                                 # Large dot size
+           # y.text.col = TRUE,                            # Color y text by groups
+           
+           position = position_dodge2_keep(width =0.25, preserve="total"),
+           label = round(AverageRankings_classficator$mean_ranking,1),
+           font.label = list(color = "white", size = 9, 
+                             vjust = 0.9),
+           ylab = "Average ranking", 
+           order = c("Soma height-to-width ratio",
+                     "Soma' height/Soma' width ratio",
+                     "height/width ratio",
+                     "Soma height",
+                     "Soma width",
+                     "Overall height-to-width ratio",
+                     "Average branch order",
+                     "Max branch order",
+                     "Partition asymmetry",
+                     "Total Volume",
+                     "Number of branches",
+                     "Average Rall’s ratio",
+                     "Soma surface",
+                     "Average fragmentation",
+                     "Max fragmentation",
+                     "Average diameter",
+                     "Number of stems",
+                     "Average length")
+           
+)
+```
+
+# Read Figure 3 data 
+
+Read the Files: cell14_VEN_Cox_ScaleMeasurements.csv, cell27o_spindle19aFI_ScaleMeasurements.csv, cell24_VEN_rapid_ScaleMeasurements.csv, cell03b_spindle4aACC_ScaleMeasurements.csv, VonEconomoScaleMeasurements.csv
+
+
+```{r eval = FALSE}
+VonEconmoBoxlot <- read_csv(file.choose()) # VonEconomoScaleMeasurements.csv
+cell14_VEN_Cox <- read_csv(file.choose()) # cell14_VEN_Cox_ScaleMeasurements.csv
+cell27o_spindle19aFI <- read_csv(file.choose()) # cell27o_spindle19aFI_ScaleMeasurements.csv
+cell24_VEN_rapid <- read_csv(file.choose()) # cell24_VEN_rapid_ScaleMeasurements.csv
+cell03b_spindle4aACC <- read_csv(file.choose()) # cell03b_spindle4aACC_ScaleMeasurements.csv
+
+```
+
+# Figure 3. A comparison of the four misclassified reconstructions with the rest of the reconstructions (59) on each of the neuromorphological measures used to characterize the reconstructions. To facilitate comparison, all measurements were scaled using the scale() command in R. The colored points represent the measurement value of each of the four neuron reconstructions that were misclassified by all the algorithms. 
+
+```{r eval = FALSE}
+ggboxplot(VonEconmoBoxlot, x="variables", y="measures") + theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust=1)) + geom_point(data=cell03b_spindle4aACC, aes(x=variables,  y=measures, color="cell03b_spindle4aACC" ), size=3, shape=19) + geom_point(data=cell24_VEN_rapid, aes(x=variables,  y=measures, color="cell24_VEN_rapid" ), size=3, shape=17) + geom_point(data=cell27o_spindle19aFI, aes(x=variables,  y=measures, color="cell27o_spindle19aFI" ), size=3, shape=15) + geom_point(data=cell14_VEN_Cox, aes(x=variables,  y=measures, color="cell14_VEN_Cox" ), size=3, shape=15) + labs(y="Scaled measurements")
+
+
+```
+
+# Read Figure 4 data 
+
+Read the Misclassified_VEN_cells.csv file containing the data 
+```{r eval = FALSE}
+Misclassified_VEN_cells <- read_csv(file.choose())
+```
+
+# Figure 4. A comparison of the 11 misclassified reconstructions by at least six classifiers with the remaining reconstructions (52) on each of the neuromorphological measures used to characterize the reconstructions. To facilitate comparison, all measurements were scaled using the scale() command in R. 
+
+
+```{r eval = FALSE}
+ggboxplot(Misclassified_VEN_cells, x="variables", y="measures", color="Group", add="jitter") + theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust=1)) + labs(y="Scaled measurements")
+```
+
+
+
