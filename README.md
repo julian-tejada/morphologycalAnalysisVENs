@@ -3,7 +3,6 @@ This is the repository of data and code from the research "VENTuring Forth: The 
 
 ## Morphological data
 - `data/DataNeuroMorpho_Human_pyramidal_28-11-24.csv` contains all morphological measures extracted using L-Measure software.
-- `data/images` contains screenshots of all sample neurons in which: `original` are screenshots of the neuronal morphology from Neuromorpho.org; in `withSoma` are screenshots of the SWC file using the HBP Neuron Morphology online viewer (Velasco et al. 2024); and `withDiameter` are screenshots of the SWC file using the NEURON software 3D import tool (Hines and Carnevale 2001) with the “show diameter” option checked.
 
 ## Scripts
 - `scripts\MachineLearningAnalysis.Rmd` is an R Markdown document containing the machine learning model and its parametrization used to estimate the variable importance of each morphological measure when they were used to characterize von Economo neurons.
