@@ -27,3 +27,4 @@ The files from the Grad-CAM analysis results are available via a OneDrive link d
 - `https://uconn-my.sharepoint.com/:f:/g/personal/luis_mercado_diaz_uconn_edu/EpU7rjqCmI5Gg86ag4CQXDMB9y184CYAsKvZHeTcJtQD_A?e=Mh1gQn` contains the results obtained after running the Python script  `scripts\von_economo_vgg_testing_NewVEN_2Folds_GradCAM.py`. Each subfolder calle `gradcam_result_fold*`  contains a split of the dataset used for model evaluation during a cross-validation process. A comparison of the graphical results can be observed by opening the files starting with the word comparison, such as in the next image:
    ![Comparison of the 12-2-10 model.](data/images/121-2-10.png)
    
+![Uploading comparison_121-2-10.png…]()
